@@ -1,0 +1,11 @@
+.vscode/
+Binaries/
+compile_commands/
+Intermediates/
+
+
+MakeFile
+PixelLands.make 
+RunDebug.bat
+GenerateMakeFiles.bat 
+compile_commands.json
