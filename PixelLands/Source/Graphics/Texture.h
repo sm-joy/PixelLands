@@ -2,6 +2,8 @@
 #define TEXTURE_H
 
 
+#define INVALID_TEXTURE_ID 0
+
 typedef struct {
     unsigned int texture_id;
 	int width, height, nrChannels;

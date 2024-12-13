@@ -73,8 +73,31 @@ typedef enum {
     KEY_GRAVE         = 96,
     KEY_EQUAL         = 61,
     KEY_MINUS         = 45,
+
+    KEY_F01 = 290,
+    KEY_F02 = 291,
+    KEY_F03 = 292,
+    KEY_F04 = 293,
+    KEY_F05 = 294,
+    KEY_F06 = 295,
+    KEY_F07 = 296,
+    KEY_F08 = 297,
+    KEY_F09 = 298,
+    KEY_F10 = 299,
+    KEY_F11 = 300,
+    KEY_F12 = 301,
+
+    KEY_PAUSE         = 284,
+    KEY_INSERT        = 260,
+    KEY_HOME          = 268,
+    KEY_PAGE_UP       = 266,
+    KEY_DELETE        = 261,
+    KEY_END           = 269,
+    KEY_PAGE_DOWN     = 270,
+
     KEY_MAX
 } KeyCode;
+
 
 
 
